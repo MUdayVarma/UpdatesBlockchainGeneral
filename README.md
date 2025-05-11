@@ -1,7 +1,11 @@
 # UpdatesBlockchainGeneral
 General News on latest trends, attacks, plugins/tools, etc. in Blockchain ecosystem
+------------------------------------------------------------------------------------------------------------
 
 
+**[20250511] [Algogrand News]** - Latin America’s fintech giant Nubank starts offering services with Cardano, Algorand: https://crypto.news/latin-americas-fintech-giant-nubank-starts-offering-services-with-cardano-algorand/ 
+
+------------------------------------------------------------------------------------------------------------
 **[20250506] [SECURITY CHECKS]  Miner Attacks** - Cyfrin Blog(20250501): https://www.cyfrin.io/blog/solodit-checklist-explained-6-miner-attacks
 
 Miners, while essential to the blockchain's operation, can also influence smart contract execution, causing serious vulnerabilities. Relying on block.timestamp for time-sensitive operations, using block properties for randomness, and ignoring transaction ordering can open the door for miner manipulation.
