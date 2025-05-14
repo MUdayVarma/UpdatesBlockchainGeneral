@@ -2,7 +2,16 @@
 General News on latest trends, attacks, plugins/tools, etc. in Blockchain ecosystem
 ------------------------------------------------------------------------------------------------------------
 
+**[20250514] [Ethereum Upgrade]** - Pectra Upgrade: What's New and How to Track It on Etherscan:
 
+https://info.etherscan.com/pectra-upgrade-whats-new-and-how-to-track-it-on-etherscan/ 
+
+Ethereum Pectra upgrade introduces 3 major improvements for better UX, streamlined staking flow, and more L2 scaling. In this article, we look at each headline EIPs and show where Etherscan surfaces the new data:
+  - EIP-7702: Set Code for EOAs
+  - EIP-7251: Increase Max Effective Balance
+  - EIP-7691: Blob Throughput Increase
+
+------------------------------------------------------------------------------------------------------------
 **[20250511] [Algogrand News]** - Latin America’s fintech giant Nubank starts offering services with Cardano, Algorand: https://crypto.news/latin-americas-fintech-giant-nubank-starts-offering-services-with-cardano-algorand/ 
 
 ------------------------------------------------------------------------------------------------------------
