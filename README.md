@@ -2,6 +2,18 @@
 General News on latest trends, attacks, plugins/tools, etc. in Blockchain ecosystem
 ------------------------------------------------------------------------------------------------------------
 
+**[20250611] [High-profile hacks and security incidents]** - : Cyfrin's Security newsletter Jun2025
+
+- [Cetus Protocol ($223M)](https://www.merklescience.com/blog/hack-track-how-a-shared-library-bug-triggered-the-223m-cetus-hack): An attacker spoofed tokens and warped AMM curve logic to drain the contract, crashing Sui’s token price by over 90% and forcing a full contract shutdown.
+
+- [Cork Protocol ($12M)](https://deepnewz.com/blockchains/cork-protocol-exploited-3762-wsteth-12m-converted-to-4530-eth-security-firms-78aa53a3): An attacker exploited fallback logic in exchange rate checks to mint fake tokens, draining 3,762 wstETH and converting them to 4,530 ETH in under 17 minutes.
+
+- ‍[Mobius Token ($2.1M)](https://quillaudits.medium.com/mobius-token-exploit-breakdown-2-1m-lost-due-to-poor-logic-4c5ea5febdec): An unverified contract with faulty math allowed an attacker to mint 9.7 quadrillion tokens for pennies, then dump them for USDT, raising strong signs of a rug pull.
+
+- [LNDFi ($1.18M)](https://rekt.news/LNDFi-rekt): A stealthy code tweak gave admin keys the power to drain funds. No multisig, no safeguards, just a 41-day ticking time bomb hiding in plain sight.
+
+------------------------------------------------------------------------------------------------------------
+
 **[20250514] [Ethereum Upgrade]** - Pectra Upgrade: What's New and How to Track It on Etherscan:
 
 https://info.etherscan.com/pectra-upgrade-whats-new-and-how-to-track-it-on-etherscan/ 
