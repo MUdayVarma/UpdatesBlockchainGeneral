@@ -2,6 +2,22 @@
 General News on latest trends, attacks, plugins/tools, etc. in Blockchain ecosystem
 ------------------------------------------------------------------------------------------------------------
 
+**[20250630] [Chainlink Blog]** - : Chainlink Automated Compliance Engine (ACE)
+
+- [Enabling Compliance-Focused Digital Assets Across Chains and Jurisdictions](https://blog.chain.link/automated-compliance-engine/#post-title)
+  
+- [The Opportunities and Challenges of Onchain Compliance](https://blog.chain.link/automated-compliance-engine/#the_opportunities_and_challenges_of_onchain_compliance)
+
+- [Chainlink ACE Provides an All-in-One Onchain Compliance Solution](https://blog.chain.link/automated-compliance-engine/#chainlink_ace_provides_an_all-in-one_onchain_compliance_solution)
+
+- [Industry Leaders Are Already Integrating With Chainlink ACE](https://blog.chain.link/automated-compliance-engine/#industry_leaders_are_already_integrating_with_chainlink_ace)
+
+- [Unlocking Countless Compliance Use Cases For Digital Assets](https://blog.chain.link/automated-compliance-engine/#unlocking_countless_compliance_use_cases_for_digital_assets)
+
+- [Compliant Capital Is The Largest Driver of Future Growth in The Blockchain Industry](https://blog.chain.link/automated-compliance-engine/#compliant_capital_is_the_largest_driver_of_future_growth_in_the_blockchain_industry)
+
+------------------------------------------------------------------------------------------------------------
+
 **[20250611] [High-profile hacks and security incidents]** - : Cyfrin's Security newsletter Jun2025
 
 - [Cetus Protocol ($223M)](https://www.merklescience.com/blog/hack-track-how-a-shared-library-bug-triggered-the-223m-cetus-hack): An attacker spoofed tokens and warped AMM curve logic to drain the contract, crashing Sui’s token price by over 90% and forcing a full contract shutdown.
