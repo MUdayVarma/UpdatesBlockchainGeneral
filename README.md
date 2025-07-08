@@ -2,6 +2,11 @@
 General News on latest trends, attacks, plugins/tools, etc. in Blockchain ecosystem
 ------------------------------------------------------------------------------------------------------------
 
+**[202507] [Cyfrin Jul2025 Newsletter]** - : State of Crypto Security 2025
+
+- [Areta’s State of Crypto Security 2025 report reveals why full-stack security is now essential across the entire web3 development lifecycle.](https://research.areta.io/state-of-crypto-security-2025)
+
+------------------------------------------------------------------------------------------------------------
 **[20250630] [Chainlink Blog]** - : Chainlink Automated Compliance Engine (ACE)
 
 - [Enabling Compliance-Focused Digital Assets Across Chains and Jurisdictions](https://blog.chain.link/automated-compliance-engine/#post-title)
