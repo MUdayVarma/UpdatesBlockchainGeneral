@@ -1,3 +1,10 @@
+
+# Blockchain Security
+
+**[20251225] [The Quantum Threat to Blockchain: A Comprehensive Research](https://www.linkedin.com/comm/pulse/quantum-cryptography-blockchain-comprehensive-research-garima-singh-qqkdf)** 
+
+Quantum computing poses an existential threat to blockchain technology, with experts estimating that quantum computers capable of breaking current cryptographic systems could emerge around 2030—a projected moment known as "Q-Day."
+
 # UpdatesBlockchainGeneral
 General News on latest trends, attacks, plugins/tools, etc. in Blockchain ecosystem
 ------------------------------------------------------------------------------------------------------------
