@@ -9,6 +9,9 @@ Quantum computing poses an existential threat to blockchain technology, with exp
 General News on latest trends, attacks, plugins/tools, etc. in Blockchain ecosystem
 ------------------------------------------------------------------------------------------------------------
 
+**[20260112 - DIGITAL PRODUCT PASSPORT: A COMPREHENSIVE GUIDE]** [Expanded Analysis with Verifiable Credentials Integration](https://www.linkedin.com/pulse/digital-product-passport-comprehensive-research-garima-singh-7qlxc/) 
+
+
 **[202507] [Cyfrin Jul2025 Newsletter]** - : State of Crypto Security 2025
 
 - [Areta’s State of Crypto Security 2025 report reveals why full-stack security is now essential across the entire web3 development lifecycle.](https://research.areta.io/state-of-crypto-security-2025)
